@@ -1,0 +1,12 @@
+#Configuration file
+#***************************************************
+ipServer2Backup="xxx.xxx.xxx.xxx"
+userNameServer2Backup="username"
+#***************************************************
+
+#Daily time to make backup
+timeForDailyBackup="9"
+
+#file containing directories to backup
+dir2BackupPath="/home/pi/dir2Rsync"
+
